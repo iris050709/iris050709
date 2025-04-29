@@ -1,4 +1,4 @@
-# 👨‍💻 ¡Hola! Soy Iris. 👋
+# 👩‍💻 ¡Hola! Soy Iris. 👋
 
 Soy una desarrolladora apasionada por la tecnología y el aprendizaje continuo, con formación en desarrollo de software multiplataforma. Me especializo en la creación de aplicaciones web dinámicas utilizando tecnologías modernas, bases de datos eficientes y buenas prácticas de programación.
 
