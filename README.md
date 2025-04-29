@@ -35,18 +35,20 @@ Aplicar los conocimientos adquiridos durante mi formación académica en el ámb
 
 ## 🚀 Frameworks y Tecnologías
 
-- Laravel ⚙️
-- React ⚛️
-- Flask 🔥
-- Django 🌿
-- Tkinter 🧩
+- **Laravel** ⚙️
+- **React** ⚛️
+- **Flask** 🔥
+- **Django** 🌿
+- **Tkinter** 🧩
 
 ---
 
 ## 🗄️ Bases de Datos
 
-- MySQL
-- SQLite
+- **MySQL** 🐬  
+- **MariaDB** 🌊  
+- **SQLite** 📦  
+- **MongoDB** 🍃 (NoSQL)  
 
 ---
 
